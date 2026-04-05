@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alaguvel 👋</h1>
 
 <p align="center">
-  🎯 Aspiring Python Full Stack Developer | 📍 Salem, Tamil Nadu, India
+  🎯 Aspiring Python Full Stack Developer | 📍 chennai , Tamil Nadu, India
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - ⏳ **JavaScript** — Coming Soon
 - ⏳ **Backend (Django/Flask)** — Coming Soon
 - 💡 Learning step by step, one module at a time
-- 📍 Based in **Salem, Tamil Nadu, India**
+- 📍 Based in **chennai , Tamil Nadu, India**
 - 📫 Reach me at: **GitHub → Alaguvel2410**
 
 ---
@@ -80,12 +80,12 @@
 
 ## 💬 Quote I Live By
 
-> *"The expert in anything was once a beginner."*
+> 🌟 *"The beautiful thing about learning is that nobody can take it away from you."* — B.B. King 📚✨
 
 ---
 
 <p align="center">
-  🌱 Growing every day | 💻 One step at a time | 🚀 Future Full Stack Dev
+  🌱 Growing every day | 💻 One step at a time | 🚀 Future Full Stack Developer
 </p>
 
 <p align="center">
