@@ -51,21 +51,6 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 
 ## 📊 GitHub Stats
 
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true&hide=contribs,issues" 
-    width="49.5%"
-    alt="Alaguvel2410 GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true" 
-    width="49.5%"
-    alt="Alaguvel2410 Top Languages"
-  />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alaguvel2410&theme=dark&hide_border=true&border_radius=24&ring=10b981&fire=ef4444&currStreakLabel=10b981" width="70%" />
 </p>
