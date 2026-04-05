@@ -1,104 +1,30 @@
-<h1 align="center">Hi there, I'm Alaguvel 👋</h1>
+## Hi there 👋 It's me Hareesh
 
-<p align="center">
-  🎯 Aspiring Python Full Stack Developer | 📍 chennai , Tamil Nadu, India
-</p>
+Software Engineer @ Zoho Corporation
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
+- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
+- ⚡ Fun fact: I know Japanese.
+- Social Presence
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;SQL+%7C+Python+%7C+HTML+%7C+CSS;Learning+One+Step+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
----
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
-## 🙋‍♂️ About Me
 
-- 🎓 Currently learning **Python Full Stack Development**
-- ✅ **SQL** — Completed
-- ✅ **Python** — Completed
-- ✅ **HTML & CSS** — Completed
-- ⏳ **JavaScript** — Coming Soon
-- ⏳ **Backend (Django/Flask)** — Coming Soon
-- 💡 Learning step by step, one module at a time
-- 📍 Based in **chennai , Tamil Nadu, India**
-- 📫 Reach me at: **GitHub → Alaguvel2410**
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
----
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-## 🚀 My Learning Journey
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
-| Module | Status |
-|--------|--------|
-| 🗄️ SQL | ✅ Completed |
-| 🐍 Python | ✅ Completed |
-| 🌐 HTML & CSS | ✅ Completed |
-| ⚡ JavaScript | ⏳ Coming Soon |
-| ⚙️ Backend (Django/Flask) | ⏳ Not Started |
-| 🗃️ Full Stack Projects | ⏳ Coming Soon |
-
----
-
-## 🧰 Tech Stack
-
-### 💾 Database
-![MySQL](https://img.shields.io/badge/MySQL-FF6F00?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008BB9?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🐍 Language
-![Python](https://img.shields.io/badge/Python-FF6B35?style=for-the-badge&logo=python&logoColor=FFD700)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-00B4D8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true&hide=contribs,issues" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=react&hide_border=true&border_radius=24&stroke=6366f1&ring=10b981&fire=ef4444&currStreakNum=f59e0b&currStreakLabel=10b981&sideNums=f3f4f6&sideLabels=f3f4f6&dates=f3f4f6" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaguvel2410&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaguvel2410&theme=react-dark&bg_color=0d1117&color=f59e0b&line=f472b6&point=10b981&area=true&hide_border=true" width="100%" />
-</p>
-
-<!-- WakaTime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alaguvel2410&theme=react&border_radius=24&border_color=6366f1" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaguvel2410&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 💬 Quote I Live By
-
-> 🌟 *"The beautiful thing about learning is that nobody can take it away from you."* — B.B. King 📚✨
-
----
-
-<p align="center">
-  🌱 Growing every day | 💻 One step at a time | 🚀 Future Full Stack Developer
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alaguvel2410&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</p>
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
