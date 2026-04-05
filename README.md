@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alaguvel 👋</h1>
 
 <p align="center">
-  🎯 Aspiring Python Full Stack Developer | 📍 Salem, Tamil Nadu, India
+  🎯 Aspiring Python Full Stack Developer | 📍 chennai , Tamil Nadu, India
 </p>
 
 ---
