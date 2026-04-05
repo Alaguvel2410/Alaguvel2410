@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Alaguvel 👋</h1>
 
 <p align="center">
-  🎯 Aspiring Python Full Stack Developer | 📍 chennai , Tamil Nadu, India
+  🎯 Aspiring Python Full Stack Developer | 📍 Salem, Tamil Nadu, India
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;SQL+%7C+Python+%7C+HTML+%7C+CSS;Learning+One+Step+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,9 +14,12 @@
 
 - 🎓 Currently learning **Python Full Stack Development**
 - ✅ **SQL** — Completed
-- 🔥 **Python** — Currently Learning
-- ⏳ **Frontend** — Coming Soon
+- ✅ **Python** — Completed
+- ✅ **HTML & CSS** — Completed
+- ⏳ **JavaScript** — Coming Soon
+- ⏳ **Backend (Django/Flask)** — Coming Soon
 - 💡 Learning step by step, one module at a time
+- 📍 Based in **Salem, Tamil Nadu, India**
 - 📫 Reach me at: **GitHub → Alaguvel2410**
 
 ---
@@ -22,8 +29,9 @@
 | Module | Status |
 |--------|--------|
 | 🗄️ SQL | ✅ Completed |
-| 🐍 Python | 🔥 In Progress |
-| 🌐 Frontend (HTML/CSS/JS) | ⏳ Not Started |
+| 🐍 Python | ✅ Completed |
+| 🌐 HTML & CSS | ✅ Completed |
+| ⚡ JavaScript | ⏳ Coming Soon |
 | ⚙️ Backend (Django/Flask) | ⏳ Not Started |
 | 🗃️ Full Stack Projects | ⏳ Coming Soon |
 
@@ -31,8 +39,19 @@
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💾 Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🐍 Language
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -42,11 +61,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=tokyonight&border_radius=10" width="60%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaguvel2410&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -58,5 +86,9 @@
 ---
 
 <p align="center">
-  🌱 Growing every day | 💻 One step at a time | 🚀 Future Full Stack Developer
+  🌱 Growing every day | 💻 One step at a time | 🚀 Future Full Stack Dev
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Alaguvel2410&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
