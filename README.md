@@ -58,5 +58,6 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
   <img src="https://streak-stats.demolab.com?user=Alaguvel2410&theme=dark&hide_border=true&border_radius=24&ring=10b981&fire=ef4444&currStreakLabel=10b981" width="70%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaguvel2410&theme=react-dark&bg_color=0d1117&color=f59e0b&line=f472b6&point=10b981&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaguvel2410&theme=react-
+dark&bg_color=0d1117&color=f59e0b&line=f472b6&point=10b981&area=true&hide_border=true" width="100%" />
 </p>
