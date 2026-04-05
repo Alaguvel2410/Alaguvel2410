@@ -51,4 +51,19 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 
 ---
 
-![Alaguvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaguvel2410&theme=dark&show_icons=true&&hide=issues,contribs)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true&hide=contribs,issues" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=react&hide_border=true&border_radius=24&stroke=6366f1&ring=10b981&fire=ef4444&currStreakNum=f59e0b&currStreakLabel=10b981&sideNums=f3f4f6&sideLabels=f3f4f6&dates=f3f4f6" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaguvel2410&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaguvel2410&theme=react-dark&bg_color=0d1117&color=f59e0b&line=f472b6&point=10b981&area=true&hide_border=true" width="100%" />
+</p>
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alaguvel2410&theme=react&border_radius=24&border_color=6366f1" width="48%" />
+</p>
