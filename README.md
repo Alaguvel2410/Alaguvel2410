@@ -60,12 +60,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=radical&border_radius=10&border_color=FF6B6B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=tokyonight&border_radius=10" width="60%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Alaguvel2410&theme=radical&border_radius=10&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaguvel2410&theme=redical&bg_color=141321&color=FE428E&line=F8D847&point=FE428E&area=true" width="100%" />
 </p>
 
 ---
