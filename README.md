@@ -36,6 +36,7 @@
 | 🗃️ Full Stack Projects | ⏳ Coming Soon |
 
 ---
+
 ## 🧰 Tech Stack
 
 ### 💾 Database
