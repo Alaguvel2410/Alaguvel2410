@@ -48,7 +48,9 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Laptop-Personal_Setup-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alaguvel2410&show_icons=true&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true&hide=contribs,issues" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaguvel2410&layout=compact&theme=react&border_radius=24&border_color=6366f1&bg_color=0d1117&title_color=ffffff&text_color=f3f4f6&icon_color=10b981&hide_border=true" width="49%" />
