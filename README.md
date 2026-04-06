@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Alaguvel A
 
 Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtvZnA5NGs0eGJyeG12aTh1a3dyYjRoZDV5djd4NjdmaTZ1bnVvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiDplerbPHYnjLUo5i/giphy.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I'm currently learning **Full Stack Python Development**
 - 🐍 Python enthusiast — my favourite language above all others!
