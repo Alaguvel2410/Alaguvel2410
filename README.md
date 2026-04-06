@@ -51,6 +51,8 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 
 ## 📊 GitHub Stats
 
+> 💚 **Daily commits. Consistent growth. Green graph mindset.**
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alaguvel2410&theme=dark&hide_border=true&border_radius=24&ring=10b981&fire=ef4444&currStreakLabel=10b981" width="70%" />
 </p>
