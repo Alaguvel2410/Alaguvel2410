@@ -7,6 +7,7 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 - 🐍 Python enthusiast — my favourite language above all others!
 - 💡 Believer in continuous learning and building from scratch
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/alagu-vel-a-254a38373/)
+- 🌐 Check out my Portfolio: [alaguvel2410.github.io](https://alaguvel2410.github.io)
 
 ---
 
@@ -49,8 +50,9 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Laptop-Personal_Setup-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub Stats
 >**💚 Maintaining daily commits to ensure consistent growth and an active contribution graph.**
 
 <p align="center">
