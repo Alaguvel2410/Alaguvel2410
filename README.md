@@ -48,8 +48,8 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" /><br/>PyCharm</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><br/>VS Code</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL Workbench</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png" /><br/>Arduino IDE</td>
   </tr>
-   <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png" /><br/>Arduino IDE</td>
 </table>
 
 ---
