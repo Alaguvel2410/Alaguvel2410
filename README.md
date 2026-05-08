@@ -36,6 +36,7 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><br/>CSS</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /><br/>JavaScript</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png" /><br/>Arduino IDE</td>
   </tr>
 </table>
 
