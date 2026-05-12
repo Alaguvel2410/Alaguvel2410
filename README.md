@@ -6,7 +6,7 @@ Full Stack Python Student @ Besant Technology, Anna Nagar, Chennai
 - 🌱 I'm currently learning **Full Stack Python Development**
 - 🐍 Python enthusiast — my favourite language above all others!
 - 💡 Believer in continuous learning and building from scratch
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/alagu-vel-a-254a38373/)
+- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/alaguvel2410)
 - 🌐 Check out my Portfolio: [alaguvel2410.github.io](https://alaguvel2410.github.io/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 
 ---
