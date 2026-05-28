@@ -21,11 +21,13 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
 | Module | Status |
 |---|---|
 | SQL / MySQL | ✅ Completed |
-| Python | ✅ Completed |
+| Python | 🔄 In Progress |
 | HTML & CSS | ✅ Completed |
-| JavaScript | ✅ Completed |
-| Django | 🔄 In Progress |
-| Full Stack Projects | 🔜 Not Started |
+| JavaScript | 🔄 In Progress |
+| React.js | 🔄 Ongoing |
+| MongoDB | 🔄 In Progress |
+| Postman API Testing | 🔄 In Progress |
+| Frontend (Full) | 🔜 Not Started |
 
 ---
 
@@ -51,9 +53,18 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" /><br/>PyCharm</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><br/>VS Code</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL Workbench</td>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /><br/>Git</td>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/github.png" /><br/>GitHub</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png" /><br/>Arduino IDE</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /><br/>Git</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/60/github.png" /><br/>GitHub</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" /><br/>React.js</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" /><br/>MongoDB</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" /><br/>Postman</td>
   </tr>
 </table>
 
