@@ -20,14 +20,14 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
 
 | Module | Status |
 |---|---|
+| Frontend | ✅ Completed |
+| Python | ✅ Completed |
 | SQL / MySQL | ✅ Completed |
-| Python | 🔄 In Progress |
-| HTML & CSS | ✅ Completed |
-| JavaScript | 🔄 In Progress |
-| React.js | 🔄 Ongoing |
+
 | MongoDB | 🔄 In Progress |
-| Postman API Testing | 🔄 In Progress |
-| Frontend (Full) | 🔜 Not Started |
+| Express.js | 🔄 In Progress |
+| React.js | 🔄 In Progress |
+| Node.js | 🔄 In Progress |
 
 ---
 
@@ -40,7 +40,6 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><br/>CSS</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /><br/>JavaScript</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL</td>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png" /><br/>Django</td>
   </tr>
 </table>
 
