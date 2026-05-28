@@ -1,6 +1,6 @@
 ## Hi there 👋 It'z me Alaguvel A
 
-Full Stack Python Student Intern @BDreamz Global Solutions, Chennai
+Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I'm currently learning **Full Stack Python Development**
@@ -21,10 +21,11 @@ Full Stack Python Student Intern @BDreamz Global Solutions, Chennai
 | Module | Status |
 |---|---|
 | SQL / MySQL | ✅ Completed |
-| Python | 🔄 In Progress |
+| Python | ✅ Completed |
 | HTML & CSS | ✅ Completed |
-| JavaScript | 🔄 In Progress |
-| Frontend (Full) | 🔜 Not Started |
+| JavaScript | ✅ Completed |
+| Django | 🔄 In Progress |
+| Full Stack Projects | 🔜 Not Started |
 
 ---
 
@@ -37,6 +38,7 @@ Full Stack Python Student Intern @BDreamz Global Solutions, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><br/>CSS</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /><br/>JavaScript</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png" /><br/>Django</td>
   </tr>
 </table>
 
@@ -49,6 +51,8 @@ Full Stack Python Student Intern @BDreamz Global Solutions, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" /><br/>PyCharm</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><br/>VS Code</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /><br/>MySQL Workbench</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /><br/>Git</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/github.png" /><br/>GitHub</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/arduino.png" /><br/>Arduino IDE</td>
   </tr>
 </table>
