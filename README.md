@@ -57,6 +57,7 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" /><br/>MongoDB</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" /><br/>Postman</td>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /><br/>Git</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/60/github.png" /><br/>GitHub</td>
   </tr>
 </table>
 
