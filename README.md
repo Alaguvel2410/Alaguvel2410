@@ -8,6 +8,7 @@ Python Full Stack Developer Intern @ BDreamz Technologies, Chennai
 - 💡 Believer in continuous learning and building from scratch
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/alaguvel2410)
 - 📺 Watch my coding journey on [YouTube](https://www.youtube.com/@alaguvel2410)
+- 💻 Check out my LeetCode profile: [LeetCode](https://leetcode.com/u/alaguvel2410/)
 - 🌐 Check out my Portfolio: [alaguvel2410.github.io](https://alaguvel2410.github.io/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 
 ---
