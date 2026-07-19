@@ -1,4 +1,4 @@
-## Hi there 👋 It'z me Alaguvel A 
+## Hi there 👋 It'z me Alaguvel A
 
 💼 Python Full Stack Developer Intern @ BDreamz Global Solutions Pvt Ltd, Chennai 
 
