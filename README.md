@@ -24,10 +24,10 @@ Python Full Stack Developer Intern @ BDreamz Global Solutions Pvt Ltd, Chennai
 | Frontend | ✅ Completed |
 | Python | ✅ Completed |
 | SQL / MySQL | ✅ Completed |
-| MongoDB | 🔄 In Progress |
-| Express.js | 🔄 In Progress |
-| React.js | 🔄 In Progress |
-| Node.js | 🔄 In Progress |
+| MongoDB | Ongoing 🔄 |
+| Express.js | Planned ⏳ |
+| React.js | Ongoing 🔄 |
+| Node.js | Planned ⏳ |
 
 ---
 
