@@ -1,6 +1,7 @@
 ## Hi there 👋 It'z me Alaguvel A
 
-Python Full Stack Developer Intern @ BDreamz Global Solutions Pvt Ltd, Chennai 
+💼 Python Full Stack Developer Intern @ **BDreamz Global Solutions Pvt Ltd**, Chennai
+![Python](https://img.shields.io/badge/Python-Full%20Stack-blue?style=for-the-badge&logo=python)
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I'm currently learning **Full Stack Python Development**
