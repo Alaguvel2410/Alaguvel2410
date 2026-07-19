@@ -2,12 +2,7 @@
 
 💼 Python Full Stack Developer Intern @ **BDreamz Global Solutions Pvt Ltd**, Chennai
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Alaguvel+A+%F0%9F%91%8B;Python+Full+Stack+Developer+Intern;BDreamz+Global+Solutions+Pvt+Ltd;Python+%7C+Django+%7C+React+%7C+MySQL;Open+to+Learning+and+New+Opportunities"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Python+Developer;Full+Stack+Developer+Intern+%40+BDreamz;React+%7C+Django+%7C+REST+API+%7C+MySQL;Problem+Solver+%7C+Continuous+Learner;Turning+Ideas+into+Code"/>
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Alaguvel+A;Python+Full+Stack+Developer+Intern+%40+BDreamz+Global+Solutions;Python+%7C+Django+%7C+React+%7C+JavaScript+%7C+MySQL;Passionate+About+Building+Real-World+Web+Applications;Always+Learning+%26+Growing+Every+Day+%F0%9F%9A%80"/>
 
 - 🌱 I'm currently learning **Full Stack Python Development**
 - 🐍 Python enthusiast — my favourite language above all others!
