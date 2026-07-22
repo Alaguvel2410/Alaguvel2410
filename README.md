@@ -1,5 +1,5 @@
 ## Hi there 👋 It'z me Alaguvel A
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=16&duration=5000&pause=3000&color=39FF14&background=00000000&vCenter=true&repeat=true&width=1100&lines=Python+Full+Stack+Developer+Intern+%40+BDreamz+Global+Solutions+Pvt+Ltd,+Chennai" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=16&duration=5000&pause=3000&color=39FF14&background=00000000&vCenter=true&repeat=true&width=1100&lines=Python+Full+Stack+Developer+Student+%40+BDreamz+Global+Solutions+Pvt+Ltd,+Chennai" />
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I'm currently learning **Full Stack Python Development**
